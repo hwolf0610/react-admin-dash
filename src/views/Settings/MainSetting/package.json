@@ -1,0 +1,6 @@
+{
+  "name": "MainSetting",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./MainSetting.js"
+}

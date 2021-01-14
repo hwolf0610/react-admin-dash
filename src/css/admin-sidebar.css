@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+
+.icon-backdrop {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  padding: 15px;
+}
+.MuiDrawer-root {
+  height: 100vh;
+}
+.MuiListItem-root {
+  cursor: pointer;
+}
+.active-tab {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+  padding: 15px;
+  color: #ffffff;
+  transition: linear 0.1s;
+  opacity: 1;
+}
+.non-active-tab {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+  padding: 15px;
+  color: #ffffff;
+  opacity: 0.5;
+  transition: linear 0.1s;
+}
+.logout-item {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+  padding: 15px;
+  color: #ffffff;
+  transition: linear 0.1s;
+}

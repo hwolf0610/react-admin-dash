@@ -1,0 +1,1 @@
+{"version":3,"sources":["WidgetsBrand.module.css"],"names":[],"mappings":"AAAA,mCACE,iBAAkB,CAClB,UAAW,CACX,YACF","file":"15.a4f04af9.chunk.css","sourcesContent":[".c-chart-brand {\n  position: absolute;\n  width: 100%;\n  height: 100px;\n}\n"]}

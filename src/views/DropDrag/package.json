@@ -1,0 +1,6 @@
+{
+  "name": "TestDropDrag",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./TestDropDrag.js"
+}

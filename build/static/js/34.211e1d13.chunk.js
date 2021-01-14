@@ -1,0 +1,2 @@
+(this["webpackJsonp@coreui/coreui-pro-react-admin-template"]=this["webpackJsonp@coreui/coreui-pro-react-admin-template"]||[]).push([[34],{906:function(e,t,r){"use strict";r.r(t);var a=r(150),n=r(151),c=r(152),i=r(153),u=r(2),o=r.n(u),p=(r(493),r(494),function(e){Object(i.a)(r,e);var t=Object(c.a)(r);function r(){return Object(a.a)(this,r),t.apply(this,arguments)}return Object(n.a)(r,[{key:"render",value:function(){return o.a.createElement("div",null,"Card Library")}}]),r}(u.Component));t.default=p}}]);
+//# sourceMappingURL=34.211e1d13.chunk.js.map

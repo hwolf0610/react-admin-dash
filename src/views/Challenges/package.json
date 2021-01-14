@@ -1,0 +1,6 @@
+{
+  "name": "Challenges",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Challenges.js"
+}
